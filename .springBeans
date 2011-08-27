@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+<version>1</version>
+<pluginVersion><![CDATA[2.5.2.me201103162335]]></pluginVersion>
+<configSuffixes>
+<configSuffix><![CDATA[xml]]></configSuffix>
+</configSuffixes>
+<enableImports><![CDATA[false]]></enableImports>
+<configs>
+	<config>resources/EinTestEJB-dao-context.xml</config>
+	<config>resources/EinTestEJB-security-context.xml</config>
+	<config>resources/EinTestEJB-service-context.xml</config>
+	<config>resources/EinTestEJB-web-context.xml</config>
+	<config>resources/EinTestEJB-security-context.xml</config>
+	<config>resources/EinTestEJB-service-context.xml</config>
+	<config>resources/EinTestEJB-dao-context.xml</config>
+	<config>resources/EinTestEJB-web-context.xml</config>
+</configs>
+<configSets>
+</configSets>
+<springVersion>2.5</springVersion>
+</beansProjectDescription>

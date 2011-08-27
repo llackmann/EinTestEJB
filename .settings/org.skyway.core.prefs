@@ -1,0 +1,7 @@
+#org.skyway.core settings
+#Sun Jul 31 10:09:57 CEST 2011
+version=9.0.1.qualifier
+default.top.level.package=de.larslackmann.ueben.ear.backend.beans
+hide.dsl=false
+models.folder.name=.springDSL
+initialized=true
